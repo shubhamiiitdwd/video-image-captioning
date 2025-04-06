@@ -1,0 +1,3 @@
+from .api_settings import render_api_settings
+from .image_captioning import render_image_captioning
+from .video_captioning import render_video_captioning 
