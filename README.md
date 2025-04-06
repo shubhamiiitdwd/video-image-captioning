@@ -66,9 +66,6 @@ The application uses the following models:
 - M2M100 (418M & 1.2B)
 - Various Helsinki-NLP models for language-specific translation
 
-## License
-
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
