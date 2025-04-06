@@ -19,7 +19,7 @@ An advanced application for automatically generating captions for images and vid
 1. Clone this repository:
    ```
    git clone <repository-url>
-   cd media-captioning-hub
+   cd video-image-captioning
    ```
 
 2. Create a virtual environment and activate it:
